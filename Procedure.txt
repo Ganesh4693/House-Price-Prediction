@@ -1,0 +1,11 @@
+# Kaggle Project
+1. Cleaning
+2. Feature Transformation
+3. Feature ENgineering
+4. Encoding
+5. Scaling
+6. Feature Selection
+7. Target Transformation
+8. Model Selection
+9. Hyper parameter Optimization
+10. Ensembling
