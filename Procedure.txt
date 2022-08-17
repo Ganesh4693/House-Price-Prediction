@@ -1,7 +1,7 @@
 # Kaggle Project
 1. Cleaning
 2. Feature Transformation
-3. Feature ENgineering
+3. Feature Engineering
 4. Encoding
 5. Scaling
 6. Feature Selection
